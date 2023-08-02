@@ -1,8 +1,8 @@
 ---
 home: true
-heroText: 一个分享各类资源的地方
-tagline: 公众号：资料分享大师
-actionText: 查看资源 →
+heroText: 藏宝阁
+tagline: 你猜猜这里有什么
+actionText: start →
 actionLink: /软件资源/软件资源
 features:
 - title: 网盘资源

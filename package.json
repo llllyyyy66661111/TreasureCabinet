@@ -4,7 +4,7 @@
   "description": "你猜这是啥",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs",
+    "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs"
   },
   "repository": {
@@ -21,6 +21,7 @@
   "dependencies": {},
   "devDependencies": {
     "vuepress": "^1.9.9",
+    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar",
     "vuepress-theme-reco": "^1.6.17"
   }
 }
