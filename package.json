@@ -1,0 +1,26 @@
+{
+  "name": "TreasureCabinet",
+  "version": "1.0.0",
+  "description": "你猜这是啥",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llllyyyy66661111/TreasureCabinet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llllyyyy66661111/TreasureCabinet/issues"
+  },
+  "homepage": "https://github.com/llllyyyy66661111/TreasureCabinet#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}
