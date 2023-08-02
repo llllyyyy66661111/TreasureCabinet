@@ -4,8 +4,8 @@
   "description": "你猜这是啥",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs --temp .temp",
-    "build": "vuepress build docs"
+    "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs --temp .temp",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
   },
   "repository": {
     "type": "git",
